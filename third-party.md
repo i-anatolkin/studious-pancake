@@ -4,11 +4,7 @@
 
 flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 
-[Homepage](https://gitlab.com/pycqa/flake8)
-
-[PyPI](https://pypi.org/project/flake8/)
-
-[Documentation](http://flake8.pycqa.org/en/latest/)
+[Homepage](https://gitlab.com/pycqa/flake8)  |  [PyPI](https://pypi.org/project/flake8/)  |  [Documentation](http://flake8.pycqa.org/en/latest/)
 
 ***
 
@@ -25,9 +21,7 @@ It also makes it easy for you to:
 
 It was originally designed for Django, but became an independent generic tool for separating settings from code.
 
-[Homepage](https://github.com/henriquebastos/python-decouple/)
-
-[PyPI](https://pypi.org/project/python-decouple/)
+[Homepage](https://github.com/henriquebastos/python-decouple/)  |  [PyPI](https://pypi.org/project/python-decouple/)
 
 ***
 
@@ -35,6 +29,4 @@ It was originally designed for Django, but became an independent generic tool fo
 
 This simple Django utility allows you to utilize the [12factor](http://www.12factor.net/backing-services) inspired DATABASE_URL environment variable to configure your Django application.
 
-[Homepage](https://github.com/kennethreitz/dj-database-url)
-
-[PyPI](https://pypi.org/project/dj-database-url/)
+[Homepage](https://github.com/kennethreitz/dj-database-url)  |  [PyPI](https://pypi.org/project/dj-database-url/)
